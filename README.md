@@ -1,2 +1,2 @@
 # formulario
-Formulário de cadastro de cliente usando HTML e CSS.
+Formulário de cadastro usando HTML e CSS.
